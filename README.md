@@ -25,6 +25,14 @@ This repository is a group project focused on predicting stock prices using arti
 - All findings and code are based on data and analysis present in the notebook.
 - The repository is designed for educational purposes as part of a college curriculum.
 
+## Acknowledgements
+
+- [Yahoo Finance](https://finance.yahoo.com/) for data APIs
+- [Scikit-learn](https://scikit-learn.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [PyTorch](https://pytorch.org/)
+
 ## Additional Information
 
 For more details and updates, visit the [GitHub repository](https://github.com/Akshat0612/Stock-Price-Prediction-using-AI).
